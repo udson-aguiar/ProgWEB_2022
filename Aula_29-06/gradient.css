@@ -1,0 +1,36 @@
+# 29-06
+.blue {
+	background: linear-gradient(to top, #4377FA, #0537B7);
+}
+.omg-pink {
+	background : linear-gradient(to bottom right, #FC0050, #FF79A3);
+}
+div {
+	box-shadow: 3px 3px 3px #AAA;
+	background-color: lightgreen;
+	padding: 5px;
+	width: 200px;
+	text-align: center;
+	font-weight: bold;
+}
+h1 {
+	background-color: #1D9AC0;
+	display: inline-block;
+	color: #FFF;
+	padding: 10px;
+	font-weight; bold;
+	text-shadow: 2px 4px 2px rgba(0,0,0,0.5);
+}
+span {
+	background-color: lightblue;
+}
+p {
+	background-color: green;
+}
+p {
+	column-count: 3;
+	column-gap: 10px;
+	column-rule: 1px solid #666;
+	font-size: 0.9em;
+	width: 500px;
+}
